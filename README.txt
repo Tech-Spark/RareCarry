@@ -1,1 +1,1 @@
-# RareCarry is a e-commerce web application built with react, redux, node, express & mongodb.
+# RareCarry is an e-commerce web application built with react, redux, node, express & mongodb.
